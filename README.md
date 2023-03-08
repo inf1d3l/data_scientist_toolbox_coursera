@@ -1,1 +1,1 @@
-# data_scientist_toolbox_coursera
+# datasciencecoursera
